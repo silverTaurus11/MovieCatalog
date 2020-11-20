@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="duration_template">Duration: $1 minutes</string>
+    <string name="movie_title">Movies</string>
+    <string name="tv_show_title">Tv Shows</string>
+    <string name="rating_label">Rating :</string>
+    <string name="total_of_episodes">Total : $1 episodes</string>
+    <string name="rating_detail">Rating.</string>
+    <string name="genre_label">Genre</string>
+    <string name="year_label">Year</string>
+    <string name="language_label">Language</string>
+    <string name="duration_label">Duration</string>
+    <string name="description_label">Description :</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="tv_show_detail">Tv Show Detail</string>
+    <string name="duration_minute_template">$1 minutes</string>
+    <string name="total_label">Total</string>
+    <string name="episode_template">$1 episodes</string>
+    <string name="share_label">Share</string>
+    <string name="no_data">Empty data</string>
+    <string name="something_wrong">Oops.. something went wrong</string>
+    <string name="favorite_list">Favorite List</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+    <string name="remove_to_favorite">Remove from Favorite</string>
+    <string name="order_by_rating">Order by Rating</string>
+</resources>
